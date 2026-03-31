@@ -1,0 +1,5 @@
+{
+  "name": "3D Parking Number Plate Generator",
+  "description": "Generate and export 3D printable parking number plates with custom text and dimensions.",
+  "requestFramePermissions": []
+}
